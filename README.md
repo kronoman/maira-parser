@@ -1,5 +1,5 @@
 # maira-parser
-A college project for a friend, a simple LOGO style parser
+A college project for a friend, a simple LOGO style parser, compiler and virtual machine
 
 
 Asi funciona> VER EN FORMATO RAW!
