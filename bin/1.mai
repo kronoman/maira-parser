@@ -1,0 +1,34 @@
+// al reves
+COLOR 0 0 0
+LIMPIAR
+COLOR 255 255 255
+LINEA 0 0 640 480
+ESPERAR
+
+
+
+// otra
+COLOR 0 64 64
+        LIMPIAR
+COLOR 255 255 255                
+         LINEA 640 0 0 480
+    ESPERAR
+
+// cruz
+        LIMPIAR
+				COLOR 255 0 0                
+				LINEA 0 0 640 480
+		COLOR 0 0 255 
+         LINEA 640 0 0 480
+    ESPERAR
+
+// circulos
+COLOR 0 0 0
+LIMPIAR
+COLOR 255 255 255
+CIRCULO 320 240 16
+COLOR 255 0 255
+CIRCULO 340 260 32
+         LINEA 640 0 0 480
+ESPERAR
+
